@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F820DB012949ADE700BC2FED /* SheetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F820DB002949ADE700BC2FED /* SheetsView.swift */; };
 		F8637FBC292F9728002AEB01 /* TravelAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8637FBB292F9728002AEB01 /* TravelAppApp.swift */; };
 		F8637FBE292F9728002AEB01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8637FBD292F9728002AEB01 /* ContentView.swift */; };
 		F8637FC0292F972A002AEB01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8637FBF292F972A002AEB01 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F820DB002949ADE700BC2FED /* SheetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsView.swift; sourceTree = "<group>"; };
 		F8637FB8292F9728002AEB01 /* TravelApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8637FBB292F9728002AEB01 /* TravelAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelAppApp.swift; sourceTree = "<group>"; };
 		F8637FBD292F9728002AEB01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				F8637FCA292F9F68002AEB01 /* TravelAppView.swift */,
+				F820DB002949ADE700BC2FED /* SheetsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				F8637FCB292F9F68002AEB01 /* TravelAppView.swift in Sources */,
 				F8637FBE292F9728002AEB01 /* ContentView.swift in Sources */,
+				F820DB012949ADE700BC2FED /* SheetsView.swift in Sources */,
 				F8637FBC292F9728002AEB01 /* TravelAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
